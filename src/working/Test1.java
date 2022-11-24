@@ -5,7 +5,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int [] array1 = {20, 30, 40, 50, 60, 70};
+		int [] array1 = {20, 30, 40, 50, 60, 70, 80};
 		
 		 System.out.println("Total numbers are " + array1.length);
 		 System.out.println("The first number is " + array1[0]);
