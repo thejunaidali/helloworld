@@ -13,6 +13,7 @@ public class Test1 {
 		 System.out.println("The last number is " + array1[array1.length -1]);
 		System.out.println("hello world ");
 		System.out.println("i am junaid ali");
+		System.out.println("confidence ");
 	}
 
 }
